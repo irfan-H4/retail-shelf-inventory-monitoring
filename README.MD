@@ -45,3 +45,8 @@ After running the program, you will see the results:
 * The **Detected Shelf Products** window will show the image with red rectangles around the detected products.
 * The **Thresholded Image** window will show the thresholded binary image, highlighting areas where the products were detected.
 
+
+![Original image](reference.jpg)
+
+![output image ](output.jpg)
+
